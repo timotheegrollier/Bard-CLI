@@ -6,9 +6,11 @@ Bard CLI is a command-line interface for using Bard, a powerful question-answeri
 
 To use Bard CLI, you need to have Python installed on your system.
 
-1. Clone this repository to your local machine: `git clone https://github.com/timotheegrollier/Bard-CLI && cd bard-cli`
+1. Clone this repository to your local machine: 
+`git clone https://github.com/timotheegrollier/Bard-CLI && cd bard-cli`
 
-2. Install the required packages: "pip install -r requirements.txt"
+2. Install the required packages: 
+`pip install -r requirements.txt`
 
 
 ## Usage
