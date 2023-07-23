@@ -10,6 +10,7 @@ To use Bard CLI, you need to have Python installed on your system.
 
 `git clone https://github.com/timotheegrollier/Bard-CLI && cd bard-cli`
 
+
 2. Install the required packages: 
 
 `pip install -r requirements.txt`
