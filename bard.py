@@ -2,10 +2,10 @@ from bardapi import Bard
 from colorama import init, Fore, Style
 
 def get_user_input():
-    """Get user input in a loop until 'exit' is entered."""
     while True:
         prompt = input("You: ")
         if prompt.lower() == 'exit':
+            print()
             print(f"{Fore.YELLOW}Exiting Bard CLI. Goodbye!\n")
             break
         yield prompt
